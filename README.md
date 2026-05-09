@@ -32,9 +32,6 @@
   <a href="https://t.me/andrew_developer">
     <img src="https://img.shields.io/badge/Telegram-andrew__developer-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:khramov.02list.ru16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khramov.02list.ru16%40gmail.com-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <p align="center">
