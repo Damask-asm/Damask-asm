@@ -252,27 +252,20 @@ Standalone icon map: [README.variant-icons.md](README.variant-icons.md).
   <img src="https://img.shields.io/badge/Support%20%26%20Scaling-155e75?style=for-the-badge" alt="Support and Scaling" />
 </p>
 
-## GitHub Stats
+## GitHub Presence
+
+GitHub is used here as a public technical profile. A significant part of commercial delivery work is private, client-owned or under NDA, so the profile focuses on positioning, cases, stack and contact entry points rather than generated public statistics.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Damask-asm&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Andrew Khramov GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damask-asm&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top languages"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Damask-asm&theme=github-dark-blue&hide_border=true"
-    alt="GitHub streak"
-    height="165"
-  />
+  <a href="https://github.com/Damask-asm">
+    <img src="https://img.shields.io/badge/GitHub-profile-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/Damask-asm?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20repositories-open-334155?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/Damask-asm/Damask-asm">
+    <img src="https://img.shields.io/badge/Profile%20README-source-475569?style=for-the-badge&logo=markdown&logoColor=white" alt="Profile README source" />
+  </a>
 </p>
 
 ## Contact
